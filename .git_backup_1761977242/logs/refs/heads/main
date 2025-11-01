@@ -1,8 +1,0 @@
-0000000000000000000000000000000000000000 d0d5ffd7313fc07cf63e763761d01295033b1bb9 Trung Minh Cao <caominhtrung@192.168.2.107> 1761726103 +0700	commit (initial): Add project code with CI workflow
-d0d5ffd7313fc07cf63e763761d01295033b1bb9 d0d5ffd7313fc07cf63e763761d01295033b1bb9 Trung Minh Cao <caominhtrung@192.168.2.107> 1761726481 +0700	Branch: renamed refs/heads/master to refs/heads/main
-d0d5ffd7313fc07cf63e763761d01295033b1bb9 aa5ee0840ffb3e22ccb716afc7f11373e51f646b Trung Minh Cao <caominhtrung@192.168.2.53> 1761731635 +0700	commit: Fix CI pipeline: configure test result outputs and correct artifact paths
-aa5ee0840ffb3e22ccb716afc7f11373e51f646b 3511626fd6099bf399c5aedc8a697e2c23acc3f4 Trung Minh Cao <caominhtrung@192.168.2.53> 1761731841 +0700	commit: Ensure test directories are created even if tests fail
-3511626fd6099bf399c5aedc8a697e2c23acc3f4 5b0013922d195d9c13a4e248f9dd3f95dbdab2ed Trung Minh Cao <caominhtrung@192.168.2.53> 1761731883 +0700	commit: Increase wait timeout to 180s
-5b0013922d195d9c13a4e248f9dd3f95dbdab2ed 646ece1cf1fc002cd465439758b574428c013258 Trung Minh Cao <caominhtrung@192.168.2.53> 1761732633 +0700	commit: CI: fallback to npm install if npm ci fails (root)
-646ece1cf1fc002cd465439758b574428c013258 1956d92ede264baf9295f14149d0215f34bcc8c6 Trung Minh Cao <caominhtrung@192.168.2.247> 1761901723 +0700	commit: chore: add/update package-lock.json for deterministic CI
-1956d92ede264baf9295f14149d0215f34bcc8c6 1186abc9815e80d96f38d605750a04b37b3e7f2c Trung Minh Cao <caominhtrung@192.168.2.247> 1761903599 +0700	commit: chore: add/update package-lock.json for deterministic CI
